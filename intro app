@@ -1,0 +1,8 @@
+  package App
+  
+  class intro_app {
+  
+  String alert = "this test";
+  
+  system.print(alert);
+ }
